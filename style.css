@@ -1,20 +1,17 @@
-h3{
-    color: blue;
-    font-family: ; 
-    background: ;
-    }
+h1{
 
+color: black;
+font-family:arial,verdana  geneva,  sans-serif;
+background-color:blue ;
+font-size: 50px;
+text-align:center;
+}
+
+p{
+    color:black;
+    font-family:impact ;
+    background-color: aliceblue;
+    font-size: 40px;
+    text-align:center;
     
-    Estilizar a cor de fundo do seu site como o css
-    body{
-    background-color: brown
-    }
-    
-    
-    Estilizar os parágrafos:
-    p{
-    color: ;
-    font-family: ;
-    font-size: ;
-    background: ;
-    }   
+}
